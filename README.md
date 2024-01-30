@@ -1,6 +1,8 @@
-## Hi there, I`m Lilia Bezdenezhnykh 👋 
+## Hi there, I'm Lilia Bezdenezhnykh 👋 
+
 ### I'm starting my career as a Data Analyst 📊📈
-I have a lot of experience in the field of document management, but I am interested in working with data and finding patterns in them.
+I have a lot of experience in the field of document management, but I'm interested in working with data, analyze it and finding patterns in them. 
+
 ### Languages and Tools:
 - Python
 - A/B-tests
